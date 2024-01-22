@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(221, 230, 230);
+}
+.main{
+    font-family: 'Lucida Calligraphy', Geneva, Verdana, sans-serif;
+}
+.firstpara{
+    font-size: 20.5px;
+    text-align: justify;
+    max-width: 1200px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: xx-large;
+}
+.consultantss {
+    width: 100%;
+    border-collapse: collapse;
+}
+h3{
+    font-size: x-large;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+.secondpara{
+    font-size: 18px;
+    text-align: justify;
+    max-width: 800px;
+}
+
+.timings {
+        width: 100%;
+        border-collapse: collapse;
+        max-width: 1200px;
+}
+.timings th, .timings td{
+    border-collapse: collapse;
+    border: 1px solid #0b0b0b;
+}
+.doctors{
+    width:300px;
+}
+.doctors:hover{
+    width: 350px;
+    transform: scale(1:1);
+
+}
